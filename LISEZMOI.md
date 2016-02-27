@@ -3,6 +3,10 @@ SUPER PONG v1.1
 
 par Erwan Rouzel, aKa nop
 pour TI-89 sous doorsos
+publié en Septembre 1999
+
+Référence :
+http://www.ticalc.org/archives/files/fileinfo/92/9213.html
 
 C'est un jeu qui reprend le concept d'un des premiers 
 jeux-vidéos (Pong). Il s'agit de mon premier programme en 
@@ -55,13 +59,3 @@ première *vraie* release
 v1.0 :
 Une genre de bêta que presque personne n'a vue, étant donné que je 
 ne l'ai pas publiée sur ticalc.org   
-
-
-
-Contact
--------
-
-N'hésitez pas à reporter tout bug, suggestion, etc...
-
-e-mail : nop@ifrance.com
-WEB : http://nop.ifrance.com

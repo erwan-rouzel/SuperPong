@@ -3,6 +3,10 @@ SUPER PONG v1.1
 
 by Erwan Rouzel, aKa nop
 for TI-89 under doorsos
+released in september 1999
+
+Reference:
+http://www.ticalc.org/archives/files/fileinfo/92/9213.html
 
 This is a game which uses the concept of one of the first 
 video-games (Pong). This is my first 68k assembly program.
@@ -54,11 +58,3 @@ code have been removed. This is the first *real* public release
 v1.0 :
 A kind of bêta which nearly no one had seen since I didn't 
 published it on ticalc.org   
-
-Contact
--------
-
-Do not hesitate to report any bug, suggestion, etc...
-
-e-mail : nop@ifrance.com
-WEB : http://nop.ifrance.com
